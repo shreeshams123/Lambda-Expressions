@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lambda Expressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|d:\\lambda expressions\\lambda expressions\\lambda expressions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|solutionrelative:lambda expressions\\lambda expressions.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|d:\\lambda expressions\\lambda expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|solutionrelative:lambda expressions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|d:\\lambda expressions\\lambda expressions\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|solutionrelative:lambda expressions\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|d:\\lambda expressions\\lambda expressions\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|solutionrelative:lambda expressions\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|d:\\lambda expressions\\lambda expressions\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|solutionrelative:lambda expressions\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|d:\\lambda expressions\\lambda expressions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|solutionrelative:lambda expressions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|d:\\lambda expressions\\lambda expressions\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FA9B03-7481-48C4-8033-3D89C26F1EBB}|Lambda Expressions\\Lambda Expressions.csproj|solutionrelative:lambda expressions\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "D:\\Lambda Expressions\\Lambda Expressions\\Class3.cs",
+              "RelativeDocumentMoniker": "Lambda Expressions\\Class3.cs",
+              "ToolTip": "D:\\Lambda Expressions\\Lambda Expressions\\Class3.cs",
+              "RelativeToolTip": "Lambda Expressions\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:04:32.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "D:\\Lambda Expressions\\Lambda Expressions\\Class4.cs",
+              "RelativeDocumentMoniker": "Lambda Expressions\\Class4.cs",
+              "ToolTip": "D:\\Lambda Expressions\\Lambda Expressions\\Class4.cs",
+              "RelativeToolTip": "Lambda Expressions\\Class4.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:02:19.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\Lambda Expressions\\Lambda Expressions\\Class2.cs",
+              "RelativeDocumentMoniker": "Lambda Expressions\\Class2.cs",
+              "ToolTip": "D:\\Lambda Expressions\\Lambda Expressions\\Class2.cs",
+              "RelativeToolTip": "Lambda Expressions\\Class2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:11:39.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\Lambda Expressions\\Lambda Expressions\\Demo.cs",
+              "RelativeDocumentMoniker": "Lambda Expressions\\Demo.cs",
+              "ToolTip": "D:\\Lambda Expressions\\Lambda Expressions\\Demo.cs",
+              "RelativeToolTip": "Lambda Expressions\\Demo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:00:38.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Lambda Expressions\\Lambda Expressions\\Class1.cs",
+              "RelativeDocumentMoniker": "Lambda Expressions\\Class1.cs",
+              "ToolTip": "D:\\Lambda Expressions\\Lambda Expressions\\Class1.cs",
+              "RelativeToolTip": "Lambda Expressions\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:34:57.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lambda Expressions\\Lambda Expressions\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda Expressions\\Program.cs",
+              "ToolTip": "D:\\Lambda Expressions\\Lambda Expressions\\Program.cs",
+              "RelativeToolTip": "Lambda Expressions\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:22:50.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lambda Expressions",
+              "DocumentMoniker": "D:\\Lambda Expressions\\Lambda Expressions\\Lambda Expressions.csproj",
+              "RelativeDocumentMoniker": "Lambda Expressions\\Lambda Expressions.csproj",
+              "ToolTip": "D:\\Lambda Expressions\\Lambda Expressions\\Lambda Expressions.csproj",
+              "RelativeToolTip": "Lambda Expressions\\Lambda Expressions.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T18:47:50.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
